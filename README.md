@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+## This is Iniubong Unanam
 **timeofglory/timeofglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data analysis with Dahel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...https://www.linkedin.com/in/iniubong-unanam-1b25b720a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iniubong-unanam-1b25b720a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
