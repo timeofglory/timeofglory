@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 ## This is Iniubong Unanam
-**timeofglory/timeofglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a project 
+
+
+- 🔭 I’m a nutritionist currently rounding up my masters in UNN 
 - 🌱 I’m currently learning Data analysis with Dahel
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on
+- 🤔 I’m looking for to connect and interact with likeminds
+- 💬 Ask me about anything on nutrition and data
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iniubong-unanam-1b25b720a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She
+- ⚡ Fun fact: Reading,traveling and watching crime scene movies
+  
+-you can also reach me on timeofgloryunanam@gmail.com
