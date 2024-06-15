@@ -7,7 +7,6 @@
 
 - 🔭 I’m a nutritionist currently rounding up my masters in UNN 
 - 🌱 I’m currently learning Data analysis with Dahel
-- !{}(
 - 👯 I’m looking to collaborate on more girl child outreach
 - 🤔 I’m looking for to connect and interact with likeminds
 - 💬 Ask me about anything on nutrition and data
